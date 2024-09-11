@@ -23,3 +23,7 @@ class Tree:
 
     def amend():
         print("this is for amending a commit")
+
+    def cherrypick():
+        print("cherry on top")
+    
