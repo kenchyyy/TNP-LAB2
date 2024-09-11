@@ -4,5 +4,6 @@ def xmas_song():
     print("star ng pasko.....")
     print("imomama")
     print("lawl")
+    print("We wish you a merry xmas!")
     
 xmas_song()
