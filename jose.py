@@ -29,4 +29,7 @@ class Tree:
 
     def cherrypickfake():
         print("nothing")
+
+    def cherrypickreal():
+        print("basta")
     
