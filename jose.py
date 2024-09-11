@@ -26,4 +26,7 @@ class Tree:
 
     def cherrypick():
         print("cherry on top")
+
+    def cherrypickfake():
+        print("nothing")
     
