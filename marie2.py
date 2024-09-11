@@ -1,2 +1,3 @@
 def mama():
-    print("nanaymo") 
+    print("nanaymo")
+    print("momo") 
