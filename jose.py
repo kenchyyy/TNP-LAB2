@@ -20,3 +20,16 @@ class Tree:
 
     def threeway():
         print("this test is for the threeway merge")
+
+    def amend():
+        print("this is for amending a commit")
+
+    def cherrypick():
+        print("cherry on top")
+
+    def cherrypickfake():
+        print("nothing")
+
+    def cherrypickreal():
+        print("basta")
+    
