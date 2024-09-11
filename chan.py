@@ -6,4 +6,6 @@ def xmas_song():
     print("lawl")
     print("We wish you a merry xmas!")
     print("lal")
+    print(1+1)
+    
 xmas_song()
