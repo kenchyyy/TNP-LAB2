@@ -6,3 +6,5 @@ def sing_a_song():
     print("2main edit")
 
 sing_a_song()
+
+print("merry christmas and a happy new year")
