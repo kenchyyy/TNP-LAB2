@@ -5,6 +5,10 @@ def sing_a_song():
     print("Mamamo mo")
     print("2main edit")
 
+def final():
+    print("Final push")
+    
 sing_a_song()
 
 print("merry christmas and a happy new year")
+print("changes for stash")
