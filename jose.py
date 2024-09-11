@@ -13,3 +13,10 @@ class Tree:
 
     def sparkle(self):
         return "banjjak banjjak"
+
+
+    def this_is_test():
+        print("This is a test")
+
+    def threeway():
+        print("this test is for the threeway merge")
