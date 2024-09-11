@@ -3,6 +3,6 @@ def sing_a_song():
     print("Thank youuuuuuuu, Thank youuuuuuu, ang babait ninyo THANK YOU!!!")
     print("Mamamo nyo")
     print("Mamamo mo")
-    print("main edit")
+    print("2main edit")
 
 sing_a_song()
