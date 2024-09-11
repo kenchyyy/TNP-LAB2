@@ -10,3 +10,6 @@ class Tree:
 
     def __init__(self, name):
         self.name = name
+
+    def sparkle(self):
+        return "banjjak banjjak"
